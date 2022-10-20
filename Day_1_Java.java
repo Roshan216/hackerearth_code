@@ -25,8 +25,6 @@ System.out.println(i+x);
 System.out.println(d+y);
 System.out.println(s+z);
 
-
-
         /* Declare second integer, double, and String variables. */
 
         /* Read and save an integer, double, and String to your variables.*/
