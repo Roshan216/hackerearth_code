@@ -17,7 +17,7 @@ def Type_Number(n):
         elif (n>=2):
             print("Not Weird")
         
-
+#main function
 if __name__ == '__main__':
     N = int(input())
     Type_Number(N)
